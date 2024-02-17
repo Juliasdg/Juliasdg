@@ -14,12 +14,16 @@
   <img align="center" alt="Júlia-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   
   <img align="center" alt="Júlia-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+
+  <img align="center" alt="Júlia-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+
+  <img align="center" alt="Júlia-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
     
 </div>
 
 ##
 
-<div>
+<div style="display: inline_block">
    <a href="https://www.linkedin.com/in/j%C3%BAlia-dias-gon%C3%A7alves-411854211/" target="_blank"><img    src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-      badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
   <a href = "mailto:juliasdg28@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
