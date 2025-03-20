@@ -31,9 +31,9 @@
 
 
 
-
+- Cargo atual: Platform Engineer - IBM intern 
 - 🔭 Tecnólogo em Desenvolvimento de Sistemas - ETEC Zona Leste (2021 - 2023)
 - 🌱 Atualmente estudando Análise e Desenvolvimento de Sistemas - FATEC Zona Leste
 - 📫 Contate-me: Juliasdg28@gmail.com
-- 😄 Pronomes: ela/deela
+- 😄 Pronomes: ela/dela
 
