@@ -56,7 +56,7 @@ Estou sempre em busca de novas formas de contribuir e aprender, acreditando que 
 </div>
 
 <div>
-   <h2>Contate-me</h2>
+   <h2>📞 Contate-me</h2>
    <p align="center">
       <a href="mailto:juliasdg28@gmail.com"><img width="5%" height="5%" src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
       <a href="https://github.com/Juliasdg"><img width="5%" height="5%" src="https://img.icons8.com/?size=100&id=118553&format=png&color=000000" alt="GitHub"/></a>
